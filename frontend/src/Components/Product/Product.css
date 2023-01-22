@@ -1,0 +1,52 @@
+img {
+  border-radius: 0.5rem;
+}
+
+.medium {
+  max-width: 10rem;
+  width: 100%;
+}
+
+.productImg {
+  text-align: center;
+}
+
+.product-card {
+  border: 0.1rem #c0c0c0 solid;
+  background-color: #f8f8f8;
+  border-radius: 0.5rem;
+  margin: 1rem;
+  max-width: 250px;
+  width: 100%;
+}
+
+.card-body {
+  padding: 1rem;
+}
+
+.product-title a {
+  text-decoration: none;
+  color: black;
+}
+
+.product-title h2 {
+  font-size: 1.2rem;
+}
+
+.card-body > * {
+  margin-bottom: 0.5rem;
+}
+
+.price span {
+  font-size: 2rem;
+}
+
+.rating{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.reviews{
+    margin-top: 5px;
+}

@@ -1,0 +1,48 @@
+const data = [
+  {
+    name: "Red Sweater",
+    category: "cloth",
+    image: "https://i.postimg.cc/yYLpgZSN/redsweatshirt.jpg",
+    price: 120,
+    brand: "Nike",
+    rating: 4.5,
+    numReviews: 5,
+    description: "High quality product",
+    countInStock: 5,
+  },
+  {
+    name: "Nike Leather Jacket",
+    category: "cloth",
+    image: "https://i.postimg.cc/3JzJTdJk/JacketP.png",
+    price: 150,
+    brand: "Nike",
+    rating: 4,
+    numReviews: 4.5,
+    description: "High quality product",
+    countInStock: 3,
+  },
+  {
+    name: "Black Frog",
+    category: "cloth",
+    image: "https://i.postimg.cc/VNy0sK4P/Black-Frock.png",
+    price: 200,
+    brand: "Nike",
+    rating: 4.5,
+    numReviews: 3.5,
+    description: "High quality product",
+    countInStock: 0,
+  },
+  {
+    name: "Red T-Shirt",
+    category: "cloth",
+    image: "https://i.postimg.cc/KzdksQVY/T-Shirt.png",
+    price: 180,
+    brand: "Nike",
+    rating: 4.5,
+    numReviews: 4,
+    description: "High quality product",
+    countInStock: 5,
+  },
+];
+
+export default data;
